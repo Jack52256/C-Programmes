@@ -1,0 +1,20 @@
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\RailFence\RailFence\bin\Debug\RailFence.exe.config
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\RailFence\RailFence\bin\Debug\RailFence.exe
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\RailFence\RailFence\bin\Debug\RailFence.pdb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\RailFence\RailFence\obj\Debug\RailFence.csprojResolveAssemblyReference.cache
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\RailFence\RailFence\obj\Debug\RailFence.csproj.CoreCompileInputs.cache
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\RailFence\RailFence\obj\Debug\RailFence.exe
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\RailFence\RailFence\obj\Debug\RailFence.pdb
+K:\WJONE\RailFence\RailFence\bin\Debug\RailFence.exe.config
+K:\WJONE\RailFence\RailFence\obj\Debug\RailFence.exe
+K:\WJONE\RailFence\RailFence\obj\Debug\RailFence.pdb
+K:\WJONE\RailFence\RailFence\bin\Debug\RailFence.exe
+K:\WJONE\RailFence\RailFence\bin\Debug\RailFence.pdb
+K:\WJONE\RailFence\RailFence\obj\Debug\RailFence.csprojResolveAssemblyReference.cache
+K:\RailFence\RailFence\RailFence\bin\Debug\RailFence.exe.config
+K:\RailFence\RailFence\RailFence\bin\Debug\RailFence.exe
+K:\RailFence\RailFence\RailFence\bin\Debug\RailFence.pdb
+K:\RailFence\RailFence\RailFence\obj\Debug\RailFence.csprojResolveAssemblyReference.cache
+K:\RailFence\RailFence\RailFence\obj\Debug\RailFence.csproj.CoreCompileInputs.cache
+K:\RailFence\RailFence\RailFence\obj\Debug\RailFence.exe
+K:\RailFence\RailFence\RailFence\obj\Debug\RailFence.pdb

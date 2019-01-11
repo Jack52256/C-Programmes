@@ -1,0 +1,7 @@
+K:\vowel count\vowel count\bin\Debug\vowel count.exe.config
+K:\vowel count\vowel count\bin\Debug\vowel count.exe
+K:\vowel count\vowel count\bin\Debug\vowel count.pdb
+K:\vowel count\vowel count\obj\Debug\vowel count.csproj.CoreCompileInputs.cache
+K:\vowel count\vowel count\obj\Debug\vowel count.exe
+K:\vowel count\vowel count\obj\Debug\vowel count.pdb
+K:\vowel count\vowel count\obj\Debug\vowel count.csprojResolveAssemblyReference.cache

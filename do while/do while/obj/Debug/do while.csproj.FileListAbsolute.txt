@@ -1,0 +1,7 @@
+K:\do while\do while\bin\Debug\do while.exe.config
+K:\do while\do while\bin\Debug\do while.exe
+K:\do while\do while\bin\Debug\do while.pdb
+K:\do while\do while\obj\Debug\do while.csprojResolveAssemblyReference.cache
+K:\do while\do while\obj\Debug\do while.csproj.CoreCompileInputs.cache
+K:\do while\do while\obj\Debug\do while.exe
+K:\do while\do while\obj\Debug\do while.pdb

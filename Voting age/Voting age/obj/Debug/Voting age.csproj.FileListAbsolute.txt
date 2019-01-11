@@ -1,0 +1,7 @@
+K:\Voting age\Voting age\bin\Debug\Voting age.exe.config
+K:\Voting age\Voting age\bin\Debug\Voting age.exe
+K:\Voting age\Voting age\bin\Debug\Voting age.pdb
+K:\Voting age\Voting age\obj\Debug\Voting age.csprojResolveAssemblyReference.cache
+K:\Voting age\Voting age\obj\Debug\Voting age.csproj.CoreCompileInputs.cache
+K:\Voting age\Voting age\obj\Debug\Voting age.exe
+K:\Voting age\Voting age\obj\Debug\Voting age.pdb

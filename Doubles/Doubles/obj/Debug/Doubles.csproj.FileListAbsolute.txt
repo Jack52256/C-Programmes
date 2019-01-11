@@ -1,0 +1,7 @@
+K:\Doubles\Doubles\bin\Debug\Doubles.exe.config
+K:\Doubles\Doubles\bin\Debug\Doubles.exe
+K:\Doubles\Doubles\bin\Debug\Doubles.pdb
+K:\Doubles\Doubles\obj\Debug\Doubles.csproj.CoreCompileInputs.cache
+K:\Doubles\Doubles\obj\Debug\Doubles.exe
+K:\Doubles\Doubles\obj\Debug\Doubles.pdb
+K:\Doubles\Doubles\obj\Debug\Doubles.csprojResolveAssemblyReference.cache

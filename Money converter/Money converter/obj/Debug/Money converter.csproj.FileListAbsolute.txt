@@ -1,0 +1,6 @@
+K:\Money converter\Money converter\bin\Debug\Money converter.exe.config
+K:\Money converter\Money converter\bin\Debug\Money converter.exe
+K:\Money converter\Money converter\bin\Debug\Money converter.pdb
+K:\Money converter\Money converter\obj\Debug\Money converter.csproj.CoreCompileInputs.cache
+K:\Money converter\Money converter\obj\Debug\Money converter.exe
+K:\Money converter\Money converter\obj\Debug\Money converter.pdb

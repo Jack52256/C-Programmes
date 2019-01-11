@@ -1,0 +1,14 @@
+I:\WJONE\QueueExample\QueueExample\obj\Debug\QueueExample.csprojResolveAssemblyReference.cache
+I:\WJONE\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+I:\WJONE\QueueExample\QueueExample\bin\Debug\QueueExample.exe.config
+I:\WJONE\QueueExample\QueueExample\bin\Debug\QueueExample.exe
+I:\WJONE\QueueExample\QueueExample\bin\Debug\QueueExample.pdb
+I:\WJONE\QueueExample\QueueExample\obj\Debug\QueueExample.exe
+I:\WJONE\QueueExample\QueueExample\obj\Debug\QueueExample.pdb
+K:\QueueExample\bin\Debug\QueueExample.exe.config
+K:\QueueExample\bin\Debug\QueueExample.exe
+K:\QueueExample\bin\Debug\QueueExample.pdb
+K:\QueueExample\obj\Debug\QueueExample.csprojResolveAssemblyReference.cache
+K:\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+K:\QueueExample\obj\Debug\QueueExample.exe
+K:\QueueExample\obj\Debug\QueueExample.pdb

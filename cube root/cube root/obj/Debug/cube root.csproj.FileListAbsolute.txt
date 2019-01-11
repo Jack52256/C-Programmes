@@ -1,0 +1,7 @@
+K:\cube root\cube root\bin\Debug\cube root.exe.config
+K:\cube root\cube root\bin\Debug\cube root.exe
+K:\cube root\cube root\bin\Debug\cube root.pdb
+K:\cube root\cube root\obj\Debug\cube root.csprojResolveAssemblyReference.cache
+K:\cube root\cube root\obj\Debug\cube root.csproj.CoreCompileInputs.cache
+K:\cube root\cube root\obj\Debug\cube root.exe
+K:\cube root\cube root\obj\Debug\cube root.pdb

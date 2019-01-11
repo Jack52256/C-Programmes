@@ -1,0 +1,6 @@
+K:\Constants\Constants\bin\Debug\Constants.exe.config
+K:\Constants\Constants\bin\Debug\Constants.exe
+K:\Constants\Constants\bin\Debug\Constants.pdb
+K:\Constants\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+K:\Constants\Constants\obj\Debug\Constants.exe
+K:\Constants\Constants\obj\Debug\Constants.pdb

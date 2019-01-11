@@ -1,0 +1,6 @@
+K:\Subroutines 2\Subroutines 2\bin\Debug\Subroutines 2.exe.config
+K:\Subroutines 2\Subroutines 2\bin\Debug\Subroutines 2.exe
+K:\Subroutines 2\Subroutines 2\bin\Debug\Subroutines 2.pdb
+K:\Subroutines 2\Subroutines 2\obj\Debug\Subroutines 2.csproj.CoreCompileInputs.cache
+K:\Subroutines 2\Subroutines 2\obj\Debug\Subroutines 2.exe
+K:\Subroutines 2\Subroutines 2\obj\Debug\Subroutines 2.pdb

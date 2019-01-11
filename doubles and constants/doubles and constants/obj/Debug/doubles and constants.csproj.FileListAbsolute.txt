@@ -1,0 +1,6 @@
+K:\doubles and constants\doubles and constants\bin\Debug\doubles and constants.exe.config
+K:\doubles and constants\doubles and constants\bin\Debug\doubles and constants.exe
+K:\doubles and constants\doubles and constants\bin\Debug\doubles and constants.pdb
+K:\doubles and constants\doubles and constants\obj\Debug\doubles and constants.csproj.CoreCompileInputs.cache
+K:\doubles and constants\doubles and constants\obj\Debug\doubles and constants.exe
+K:\doubles and constants\doubles and constants\obj\Debug\doubles and constants.pdb

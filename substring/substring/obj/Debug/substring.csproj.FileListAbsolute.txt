@@ -1,0 +1,6 @@
+K:\substring\substring\bin\Debug\substring.exe.config
+K:\substring\substring\bin\Debug\substring.exe
+K:\substring\substring\bin\Debug\substring.pdb
+K:\substring\substring\obj\Debug\substring.csproj.CoreCompileInputs.cache
+K:\substring\substring\obj\Debug\substring.exe
+K:\substring\substring\obj\Debug\substring.pdb

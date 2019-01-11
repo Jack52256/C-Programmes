@@ -1,0 +1,7 @@
+K:\New Line\New Line\bin\Debug\New Line.exe.config
+K:\New Line\New Line\bin\Debug\New Line.exe
+K:\New Line\New Line\bin\Debug\New Line.pdb
+K:\New Line\New Line\obj\Debug\New Line.csproj.CoreCompileInputs.cache
+K:\New Line\New Line\obj\Debug\New Line.exe
+K:\New Line\New Line\obj\Debug\New Line.pdb
+K:\New Line\New Line\obj\Debug\New Line.csprojResolveAssemblyReference.cache

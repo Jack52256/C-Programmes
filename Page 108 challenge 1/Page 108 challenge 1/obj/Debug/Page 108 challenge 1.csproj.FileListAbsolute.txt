@@ -1,0 +1,7 @@
+K:\Page 108 challenge 1\Page 108 challenge 1\bin\Debug\Page 108 challenge 1.exe.config
+K:\Page 108 challenge 1\Page 108 challenge 1\bin\Debug\Page 108 challenge 1.exe
+K:\Page 108 challenge 1\Page 108 challenge 1\bin\Debug\Page 108 challenge 1.pdb
+K:\Page 108 challenge 1\Page 108 challenge 1\obj\Debug\Page 108 challenge 1.csprojResolveAssemblyReference.cache
+K:\Page 108 challenge 1\Page 108 challenge 1\obj\Debug\Page 108 challenge 1.csproj.CoreCompileInputs.cache
+K:\Page 108 challenge 1\Page 108 challenge 1\obj\Debug\Page 108 challenge 1.exe
+K:\Page 108 challenge 1\Page 108 challenge 1\obj\Debug\Page 108 challenge 1.pdb

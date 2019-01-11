@@ -1,0 +1,6 @@
+K:\Subroutines 4\Subroutines 4\obj\Debug\Subroutines 4.csproj.CoreCompileInputs.cache
+K:\Subroutines 4\Subroutines 4\bin\Debug\Subroutines 4.exe.config
+K:\Subroutines 4\Subroutines 4\bin\Debug\Subroutines 4.exe
+K:\Subroutines 4\Subroutines 4\bin\Debug\Subroutines 4.pdb
+K:\Subroutines 4\Subroutines 4\obj\Debug\Subroutines 4.exe
+K:\Subroutines 4\Subroutines 4\obj\Debug\Subroutines 4.pdb

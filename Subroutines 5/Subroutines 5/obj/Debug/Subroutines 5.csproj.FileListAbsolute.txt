@@ -1,0 +1,7 @@
+K:\Subroutines 5\Subroutines 5\obj\Debug\Subroutines 5.csprojResolveAssemblyReference.cache
+K:\Subroutines 5\Subroutines 5\obj\Debug\Subroutines 5.csproj.CoreCompileInputs.cache
+K:\Subroutines 5\Subroutines 5\bin\Debug\Subroutines 5.exe.config
+K:\Subroutines 5\Subroutines 5\bin\Debug\Subroutines 5.exe
+K:\Subroutines 5\Subroutines 5\bin\Debug\Subroutines 5.pdb
+K:\Subroutines 5\Subroutines 5\obj\Debug\Subroutines 5.exe
+K:\Subroutines 5\Subroutines 5\obj\Debug\Subroutines 5.pdb

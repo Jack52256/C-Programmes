@@ -1,0 +1,7 @@
+K:\If\If\bin\Debug\If.exe.config
+K:\If\If\bin\Debug\If.exe
+K:\If\If\bin\Debug\If.pdb
+K:\If\If\obj\Debug\If.csprojResolveAssemblyReference.cache
+K:\If\If\obj\Debug\If.csproj.CoreCompileInputs.cache
+K:\If\If\obj\Debug\If.exe
+K:\If\If\obj\Debug\If.pdb

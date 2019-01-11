@@ -1,0 +1,7 @@
+K:\printer\printer\obj\Debug\printer.csproj.CoreCompileInputs.cache
+K:\printer\printer\bin\Debug\printer.exe.config
+K:\printer\printer\bin\Debug\printer.exe
+K:\printer\printer\bin\Debug\printer.pdb
+K:\printer\printer\obj\Debug\printer.exe
+K:\printer\printer\obj\Debug\printer.pdb
+K:\printer\printer\obj\Debug\printer.csprojResolveAssemblyReference.cache

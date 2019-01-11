@@ -1,0 +1,7 @@
+K:\10 seconds\10 seconds\bin\Debug\10 seconds.exe.config
+K:\10 seconds\10 seconds\bin\Debug\10 seconds.exe
+K:\10 seconds\10 seconds\bin\Debug\10 seconds.pdb
+K:\10 seconds\10 seconds\obj\Debug\10 seconds.csprojResolveAssemblyReference.cache
+K:\10 seconds\10 seconds\obj\Debug\10 seconds.csproj.CoreCompileInputs.cache
+K:\10 seconds\10 seconds\obj\Debug\10 seconds.exe
+K:\10 seconds\10 seconds\obj\Debug\10 seconds.pdb

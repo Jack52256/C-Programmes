@@ -1,0 +1,7 @@
+K:\Greetings\Greetings\bin\Debug\Greetings.exe.config
+K:\Greetings\Greetings\bin\Debug\Greetings.exe
+K:\Greetings\Greetings\bin\Debug\Greetings.pdb
+K:\Greetings\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+K:\Greetings\Greetings\obj\Debug\Greetings.exe
+K:\Greetings\Greetings\obj\Debug\Greetings.pdb
+K:\Greetings\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache

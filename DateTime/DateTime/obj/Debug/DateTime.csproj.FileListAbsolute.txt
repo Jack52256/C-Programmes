@@ -1,0 +1,7 @@
+K:\DateTime\DateTime\bin\Debug\DateTime.exe.config
+K:\DateTime\DateTime\bin\Debug\DateTime.exe
+K:\DateTime\DateTime\bin\Debug\DateTime.pdb
+K:\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+K:\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+K:\DateTime\DateTime\obj\Debug\DateTime.exe
+K:\DateTime\DateTime\obj\Debug\DateTime.pdb

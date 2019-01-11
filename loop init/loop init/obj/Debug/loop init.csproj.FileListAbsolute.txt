@@ -1,0 +1,7 @@
+K:\loop init\loop init\bin\Debug\loop init.exe.config
+K:\loop init\loop init\bin\Debug\loop init.exe
+K:\loop init\loop init\bin\Debug\loop init.pdb
+K:\loop init\loop init\obj\Debug\loop init.csprojResolveAssemblyReference.cache
+K:\loop init\loop init\obj\Debug\loop init.csproj.CoreCompileInputs.cache
+K:\loop init\loop init\obj\Debug\loop init.exe
+K:\loop init\loop init\obj\Debug\loop init.pdb

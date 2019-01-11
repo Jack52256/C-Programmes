@@ -1,0 +1,15 @@
+c:\users\waj20\documents\visual studio 2015\Projects\convertwav\convertwav\bin\Debug\convertwav.exe.config
+I:\WJONE\convertwav\convertwav\bin\Debug\convertwav.exe.config
+I:\WJONE\convertwav\convertwav\bin\Debug\convertwav.exe
+I:\WJONE\convertwav\convertwav\bin\Debug\convertwav.pdb
+I:\WJONE\convertwav\convertwav\obj\Debug\convertwav.csproj.CoreCompileInputs.cache
+I:\WJONE\convertwav\convertwav\obj\Debug\convertwav.exe
+I:\WJONE\convertwav\convertwav\obj\Debug\convertwav.pdb
+I:\WJONE\convertwav\convertwav\obj\Debug\convertwav.csprojResolveAssemblyReference.cache
+K:\convertwav\convertwav\bin\Debug\convertwav.exe.config
+K:\convertwav\convertwav\bin\Debug\convertwav.exe
+K:\convertwav\convertwav\bin\Debug\convertwav.pdb
+K:\convertwav\convertwav\obj\Debug\convertwav.csprojResolveAssemblyReference.cache
+K:\convertwav\convertwav\obj\Debug\convertwav.csproj.CoreCompileInputs.cache
+K:\convertwav\convertwav\obj\Debug\convertwav.exe
+K:\convertwav\convertwav\obj\Debug\convertwav.pdb

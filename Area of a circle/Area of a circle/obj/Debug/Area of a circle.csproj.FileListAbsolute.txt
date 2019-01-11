@@ -1,0 +1,6 @@
+K:\Area of a circle\Area of a circle\bin\Debug\Area of a circle.exe.config
+K:\Area of a circle\Area of a circle\bin\Debug\Area of a circle.exe
+K:\Area of a circle\Area of a circle\bin\Debug\Area of a circle.pdb
+K:\Area of a circle\Area of a circle\obj\Debug\Area of a circle.csproj.CoreCompileInputs.cache
+K:\Area of a circle\Area of a circle\obj\Debug\Area of a circle.exe
+K:\Area of a circle\Area of a circle\obj\Debug\Area of a circle.pdb

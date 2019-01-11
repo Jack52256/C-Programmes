@@ -1,0 +1,7 @@
+K:\Fibonnaci\Fibonnaci\bin\Debug\Fibonnaci.exe.config
+K:\Fibonnaci\Fibonnaci\bin\Debug\Fibonnaci.exe
+K:\Fibonnaci\Fibonnaci\bin\Debug\Fibonnaci.pdb
+K:\Fibonnaci\Fibonnaci\obj\Debug\Fibonnaci.csproj.CoreCompileInputs.cache
+K:\Fibonnaci\Fibonnaci\obj\Debug\Fibonnaci.exe
+K:\Fibonnaci\Fibonnaci\obj\Debug\Fibonnaci.pdb
+K:\Fibonnaci\Fibonnaci\obj\Debug\Fibonnaci.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+K:\One to Onethousand\One to Onethousand\bin\Debug\One to Onethousand.exe.config
+K:\One to Onethousand\One to Onethousand\bin\Debug\One to Onethousand.exe
+K:\One to Onethousand\One to Onethousand\bin\Debug\One to Onethousand.pdb
+K:\One to Onethousand\One to Onethousand\obj\Debug\One to Onethousand.csproj.CoreCompileInputs.cache
+K:\One to Onethousand\One to Onethousand\obj\Debug\One to Onethousand.exe
+K:\One to Onethousand\One to Onethousand\obj\Debug\One to Onethousand.pdb
+K:\One to Onethousand\One to Onethousand\obj\Debug\One to Onethousand.csprojResolveAssemblyReference.cache

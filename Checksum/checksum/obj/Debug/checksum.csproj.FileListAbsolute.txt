@@ -1,0 +1,14 @@
+C:\Users\waj20\Desktop\Projects\checksum\checksum\bin\Debug\checksum.exe.config
+C:\Users\waj20\Desktop\Projects\checksum\checksum\bin\Debug\checksum.exe
+C:\Users\waj20\Desktop\Projects\checksum\checksum\bin\Debug\checksum.pdb
+C:\Users\waj20\Desktop\Projects\checksum\checksum\obj\Debug\checksum.csprojResolveAssemblyReference.cache
+C:\Users\waj20\Desktop\Projects\checksum\checksum\obj\Debug\checksum.csproj.CoreCompileInputs.cache
+C:\Users\waj20\Desktop\Projects\checksum\checksum\obj\Debug\checksum.exe
+C:\Users\waj20\Desktop\Projects\checksum\checksum\obj\Debug\checksum.pdb
+K:\checksum\checksum\bin\Debug\checksum.exe.config
+K:\checksum\checksum\bin\Debug\checksum.exe
+K:\checksum\checksum\bin\Debug\checksum.pdb
+K:\checksum\checksum\obj\Debug\checksum.csprojResolveAssemblyReference.cache
+K:\checksum\checksum\obj\Debug\checksum.csproj.CoreCompileInputs.cache
+K:\checksum\checksum\obj\Debug\checksum.exe
+K:\checksum\checksum\obj\Debug\checksum.pdb

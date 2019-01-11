@@ -1,0 +1,6 @@
+K:\Pythagoras theorem\Pythagoras theorem\bin\Debug\Pythagoras theorem.exe.config
+K:\Pythagoras theorem\Pythagoras theorem\bin\Debug\Pythagoras theorem.exe
+K:\Pythagoras theorem\Pythagoras theorem\bin\Debug\Pythagoras theorem.pdb
+K:\Pythagoras theorem\Pythagoras theorem\obj\Debug\Pythagoras theorem.csproj.CoreCompileInputs.cache
+K:\Pythagoras theorem\Pythagoras theorem\obj\Debug\Pythagoras theorem.exe
+K:\Pythagoras theorem\Pythagoras theorem\obj\Debug\Pythagoras theorem.pdb

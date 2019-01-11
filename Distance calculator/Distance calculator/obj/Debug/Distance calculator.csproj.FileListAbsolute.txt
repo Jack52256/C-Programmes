@@ -1,0 +1,6 @@
+K:\Distance calculator\Distance calculator\bin\Debug\Distance calculator.exe.config
+K:\Distance calculator\Distance calculator\bin\Debug\Distance calculator.exe
+K:\Distance calculator\Distance calculator\bin\Debug\Distance calculator.pdb
+K:\Distance calculator\Distance calculator\obj\Debug\Distance calculator.csproj.CoreCompileInputs.cache
+K:\Distance calculator\Distance calculator\obj\Debug\Distance calculator.exe
+K:\Distance calculator\Distance calculator\obj\Debug\Distance calculator.pdb

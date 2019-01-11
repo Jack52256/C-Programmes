@@ -1,0 +1,6 @@
+K:\Grade boundaries\Grade boundaries\bin\Debug\Grade boundaries.exe.config
+K:\Grade boundaries\Grade boundaries\bin\Debug\Grade boundaries.exe
+K:\Grade boundaries\Grade boundaries\bin\Debug\Grade boundaries.pdb
+K:\Grade boundaries\Grade boundaries\obj\Debug\Grade boundaries.csproj.CoreCompileInputs.cache
+K:\Grade boundaries\Grade boundaries\obj\Debug\Grade boundaries.exe
+K:\Grade boundaries\Grade boundaries\obj\Debug\Grade boundaries.pdb

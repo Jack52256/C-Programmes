@@ -1,0 +1,6 @@
+K:\Volume of a cylinder\Volume of a cylinder\bin\Debug\Volume of a cylinder.exe.config
+K:\Volume of a cylinder\Volume of a cylinder\bin\Debug\Volume of a cylinder.exe
+K:\Volume of a cylinder\Volume of a cylinder\bin\Debug\Volume of a cylinder.pdb
+K:\Volume of a cylinder\Volume of a cylinder\obj\Debug\Volume of a cylinder.csproj.CoreCompileInputs.cache
+K:\Volume of a cylinder\Volume of a cylinder\obj\Debug\Volume of a cylinder.exe
+K:\Volume of a cylinder\Volume of a cylinder\obj\Debug\Volume of a cylinder.pdb

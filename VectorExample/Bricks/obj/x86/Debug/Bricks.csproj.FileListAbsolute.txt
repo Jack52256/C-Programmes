@@ -1,0 +1,160 @@
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Content\brick.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Content\BrickSound.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Content\MissSound.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Content\Paddle.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Content\PaddleBounceSound.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Content\pixel.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Content\StartSound.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Content\WallBounceSound.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Bricks.exe
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\Bricks.pdb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\obj\x86\Debug\Bricks.csprojResolveAssemblyReference.cache
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\obj\x86\Debug\Bricks.csproj.CoreCompileInputs.cache
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\obj\x86\Debug\Bricks.exe
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks\Bricks\obj\x86\Debug\Bricks.pdb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\Bricks.exe
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\Bricks.pdb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\obj\x86\Debug\Bricks.csprojResolveAssemblyReference.cache
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\obj\x86\Debug\Bricks.csproj.CoreCompileInputs.cache
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\obj\x86\Debug\Bricks.exe
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\Bricks - Copy\Bricks\obj\x86\Debug\Bricks.pdb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\obj\x86\Debug\Bricks.csprojResolveAssemblyReference.cache
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\obj\x86\Debug\Bricks.csproj.CoreCompileInputs.cache
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\obj\x86\Debug\Bricks.exe
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\obj\x86\Debug\Bricks.pdb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\Bricks.exe
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\Bricks.pdb
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\waj20\OneDrive\Documents\Visual Studio 2017\Projects\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\obj\x86\Debug\Bricks.exe
+K:\WJONE\VectorExample\VectorExample\Bricks\obj\x86\Debug\Bricks.pdb
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\Content\Content.mgcb
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\Content\ball.xnb
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\Bricks.exe
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\Bricks.pdb
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.dll
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.dll
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.dll
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+K:\WJONE\VectorExample\VectorExample\Bricks\obj\x86\Debug\Bricks.csprojResolveAssemblyReference.cache
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\Content\Content.mgcb
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\Content\ball.xnb
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\Bricks.exe
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\Bricks.pdb
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.dll
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.dll
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.dll
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.xml
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.xml
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.xml
+I:\WJONE\VectorExample\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+I:\WJONE\VectorExample\VectorExample\Bricks\obj\x86\Debug\Bricks.csprojResolveAssemblyReference.cache
+I:\WJONE\VectorExample\VectorExample\Bricks\obj\x86\Debug\Bricks.csproj.CoreCompileInputs.cache
+I:\WJONE\VectorExample\VectorExample\Bricks\obj\x86\Debug\Bricks.exe
+I:\WJONE\VectorExample\VectorExample\Bricks\obj\x86\Debug\Bricks.pdb
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\Content\Content.mgcb
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\Content\ball.xnb
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\Bricks.exe
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\Bricks.pdb
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.dll
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.dll
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.dll
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\MonoGame.Framework.xml
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.xml
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.XInput.xml
+K:\VectorExample\Bricks\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+K:\VectorExample\Bricks\obj\x86\Debug\Bricks.csprojResolveAssemblyReference.cache
+K:\VectorExample\Bricks\obj\x86\Debug\Bricks.csproj.CoreCompileInputs.cache
+K:\VectorExample\Bricks\obj\x86\Debug\Bricks.exe
+K:\VectorExample\Bricks\obj\x86\Debug\Bricks.pdb

@@ -1,0 +1,7 @@
+K:\Hello World!\Hello World!\bin\Debug\Hello World!.exe.config
+K:\Hello World!\Hello World!\bin\Debug\Hello World!.exe
+K:\Hello World!\Hello World!\bin\Debug\Hello World!.pdb
+K:\Hello World!\Hello World!\obj\Debug\Hello World!.csprojResolveAssemblyReference.cache
+K:\Hello World!\Hello World!\obj\Debug\Hello World!.csproj.CoreCompileInputs.cache
+K:\Hello World!\Hello World!\obj\Debug\Hello World!.exe
+K:\Hello World!\Hello World!\obj\Debug\Hello World!.pdb

@@ -1,0 +1,7 @@
+K:\Subroutines 3\Subroutines 3\bin\Debug\Subroutines 3.exe.config
+K:\Subroutines 3\Subroutines 3\bin\Debug\Subroutines 3.exe
+K:\Subroutines 3\Subroutines 3\bin\Debug\Subroutines 3.pdb
+K:\Subroutines 3\Subroutines 3\obj\Debug\Subroutines 3.csprojResolveAssemblyReference.cache
+K:\Subroutines 3\Subroutines 3\obj\Debug\Subroutines 3.csproj.CoreCompileInputs.cache
+K:\Subroutines 3\Subroutines 3\obj\Debug\Subroutines 3.exe
+K:\Subroutines 3\Subroutines 3\obj\Debug\Subroutines 3.pdb

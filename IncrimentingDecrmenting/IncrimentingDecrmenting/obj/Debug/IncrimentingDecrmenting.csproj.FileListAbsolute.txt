@@ -1,0 +1,7 @@
+K:\IncrimentingDecrmenting\IncrimentingDecrmenting\bin\Debug\IncrimentingDecrmenting.exe.config
+K:\IncrimentingDecrmenting\IncrimentingDecrmenting\bin\Debug\IncrimentingDecrmenting.exe
+K:\IncrimentingDecrmenting\IncrimentingDecrmenting\bin\Debug\IncrimentingDecrmenting.pdb
+K:\IncrimentingDecrmenting\IncrimentingDecrmenting\obj\Debug\IncrimentingDecrmenting.csproj.CoreCompileInputs.cache
+K:\IncrimentingDecrmenting\IncrimentingDecrmenting\obj\Debug\IncrimentingDecrmenting.exe
+K:\IncrimentingDecrmenting\IncrimentingDecrmenting\obj\Debug\IncrimentingDecrmenting.pdb
+K:\IncrimentingDecrmenting\IncrimentingDecrmenting\obj\Debug\IncrimentingDecrmenting.csprojResolveAssemblyReference.cache

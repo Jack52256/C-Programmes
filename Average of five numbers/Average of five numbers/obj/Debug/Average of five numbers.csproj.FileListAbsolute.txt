@@ -1,0 +1,6 @@
+K:\Average of five numbers\Average of five numbers\bin\Debug\Average of five numbers.exe.config
+K:\Average of five numbers\Average of five numbers\bin\Debug\Average of five numbers.exe
+K:\Average of five numbers\Average of five numbers\bin\Debug\Average of five numbers.pdb
+K:\Average of five numbers\Average of five numbers\obj\Debug\Average of five numbers.csproj.CoreCompileInputs.cache
+K:\Average of five numbers\Average of five numbers\obj\Debug\Average of five numbers.exe
+K:\Average of five numbers\Average of five numbers\obj\Debug\Average of five numbers.pdb

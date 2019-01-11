@@ -1,0 +1,6 @@
+K:\Name jumble\Name jumble\bin\Debug\Name jumble.exe.config
+K:\Name jumble\Name jumble\bin\Debug\Name jumble.exe
+K:\Name jumble\Name jumble\bin\Debug\Name jumble.pdb
+K:\Name jumble\Name jumble\obj\Debug\Name jumble.csproj.CoreCompileInputs.cache
+K:\Name jumble\Name jumble\obj\Debug\Name jumble.exe
+K:\Name jumble\Name jumble\obj\Debug\Name jumble.pdb

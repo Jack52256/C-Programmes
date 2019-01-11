@@ -1,0 +1,7 @@
+K:\SNAP\SNAP\bin\Debug\SNAP.exe.config
+K:\SNAP\SNAP\bin\Debug\SNAP.exe
+K:\SNAP\SNAP\bin\Debug\SNAP.pdb
+K:\SNAP\SNAP\obj\Debug\SNAP.csprojResolveAssemblyReference.cache
+K:\SNAP\SNAP\obj\Debug\SNAP.csproj.CoreCompileInputs.cache
+K:\SNAP\SNAP\obj\Debug\SNAP.exe
+K:\SNAP\SNAP\obj\Debug\SNAP.pdb

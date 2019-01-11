@@ -1,0 +1,7 @@
+K:\Random Card\Random Card\bin\Debug\Random Card.exe.config
+K:\Random Card\Random Card\bin\Debug\Random Card.exe
+K:\Random Card\Random Card\bin\Debug\Random Card.pdb
+K:\Random Card\Random Card\obj\Debug\Random Card.csprojResolveAssemblyReference.cache
+K:\Random Card\Random Card\obj\Debug\Random Card.csproj.CoreCompileInputs.cache
+K:\Random Card\Random Card\obj\Debug\Random Card.exe
+K:\Random Card\Random Card\obj\Debug\Random Card.pdb

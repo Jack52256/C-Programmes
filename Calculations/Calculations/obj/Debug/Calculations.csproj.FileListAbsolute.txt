@@ -1,0 +1,7 @@
+K:\Calculations\Calculations\bin\Debug\Calculations.exe.config
+K:\Calculations\Calculations\bin\Debug\Calculations.exe
+K:\Calculations\Calculations\bin\Debug\Calculations.pdb
+K:\Calculations\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+K:\Calculations\Calculations\obj\Debug\Calculations.exe
+K:\Calculations\Calculations\obj\Debug\Calculations.pdb
+K:\Calculations\Calculations\obj\Debug\Calculations.csprojResolveAssemblyReference.cache

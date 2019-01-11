@@ -1,0 +1,6 @@
+K:\upper and lower string manipulation\upper and lower string manipulation\bin\Debug\upper and lower string manipulation.exe.config
+K:\upper and lower string manipulation\upper and lower string manipulation\bin\Debug\upper and lower string manipulation.exe
+K:\upper and lower string manipulation\upper and lower string manipulation\bin\Debug\upper and lower string manipulation.pdb
+K:\upper and lower string manipulation\upper and lower string manipulation\obj\Debug\upper and lower string manipulation.csproj.CoreCompileInputs.cache
+K:\upper and lower string manipulation\upper and lower string manipulation\obj\Debug\upper and lower string manipulation.exe
+K:\upper and lower string manipulation\upper and lower string manipulation\obj\Debug\upper and lower string manipulation.pdb
